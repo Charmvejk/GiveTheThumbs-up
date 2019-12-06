@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ExpandTextView</string>
+    <string name="the_content_of_the_comment_cannot_exceed_500_words">评论内容不能超过500字...</string>
+    <string-array name="courier_array">
+        <item>请选择您需要的快递公司</item>
+        <item>圆通</item>
+        <item>中通</item>
+        <item>申通</item>
+        <item>汇通</item>
+        <item>韵达</item>
+        <item>顺丰</item>
+        <item>京东</item>
+        <item>EMS</item>
+    </string-array>
+</resources>
